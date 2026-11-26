@@ -82,3 +82,11 @@
 - Negative test: a copy of the revised `main.ts` with a 201-char joke exits 1 with `gate check failed: entry is 201 characters, outside the 1-200 range` — the new validation works.
 - Node v24.22.1 (grader runs Node 22.23.4; plain TS with `node:` imports, compatible).
 
+
+## Submission
+
+- Submission: 01a215f5-61af-7258-9855-530e4bb58c9b
+- Commit: ab1c9f34fb7ff40947719d1b72b7a7ba873751ce
+- Repo: https://github.com/lukmannurh/u-aldy998-make-the-ai-judge-laugh-the-office-joke-open-9920f232
+- Claim code: AF-78GTB-9YTXB-KBTPR-P7W4K
+- Submitted: 2026-11-26T03:45:50.412Z (parent pipeline)
